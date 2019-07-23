@@ -1,6 +1,8 @@
+<!-- … -->
 <style>
   .no:hover {background-color:red;}
 </style>
+<!-- … -->
 
 <h2>Hi! My name is Cat!</h2>
 
