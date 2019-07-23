@@ -1,36 +1,21 @@
-## Hi! My name is Cat!
-<a href="#">HEY</a>
+<style>
+  .no:hover {background-color:red;}
+</style>
 
-I am a Software Engineer. Does anyone know what that means? 
+<h2>Hi! My name is Cat!</h2>
 
-### Markdown
+I am a Software Engineer. Does anyone know what that means? Maybe...this whole webpage is a hint!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h3>Which of the following do you think is true about Software Engineering...?</h3>
 
-```markdown
-Syntax highlighted code block
+<li class="no">You have to be really good at math</li>
+<li>There are as many different "flavors" of Software Engineering as there are flavors of ice cream</li>
+<li>You know everything about computers</li>
 
-# Header 1
-## Header 2
-### Header 3
+<h3>How can you learn Software Engineering?</h3>
+<ul>School</ul>
+<ul>Summer Programs</ul>
+<ul>Online tutorials</ul>
+<ul>Games/ul>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/catmorgan/codeisfun/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
