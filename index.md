@@ -5,6 +5,8 @@
 </style>
 <!-- … -->
 
+<h1>I love Rainbows!</h1>
+
 <h2>Hi! My name is Cat!</h2>
 
 I am a Software Engineer. Does anyone know what that means? Maybe...this whole webpage is a hint!
